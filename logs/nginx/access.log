@@ -1,0 +1,5 @@
+172.22.0.1 - - [16/Nov/2021:13:55:34 +0000] "GET / HTTP/1.1" 404 27 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" "-"
+172.22.0.1 - - [16/Nov/2021:13:55:34 +0000] "GET /favicon.ico HTTP/1.1" 404 27 "http://localhost:58710/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" "-"
+172.23.0.1 - - [16/Nov/2021:14:04:48 +0000] "GET / HTTP/1.1" 200 10261 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" "-"
+172.23.0.1 - - [16/Nov/2021:14:05:16 +0000] "GET /application/views/welcome_message.php HTTP/1.1" 200 42 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" "-"
+172.23.0.1 - - [16/Nov/2021:14:05:30 +0000] "GET /Welcome HTTP/1.1" 200 10261 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" "-"
